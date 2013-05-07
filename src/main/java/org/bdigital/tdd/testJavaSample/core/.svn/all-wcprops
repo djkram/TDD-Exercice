@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/usvn/svn/tdd-sample/!svn/ver/2/trunk/src/main/java/org/bdigital/tdd/testJavaSample/core
+END
+Evaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/usvn/svn/tdd-sample/!svn/ver/2/trunk/src/main/java/org/bdigital/tdd/testJavaSample/core/Evaluator.java
+END
+EvaluatorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/usvn/svn/tdd-sample/!svn/ver/2/trunk/src/main/java/org/bdigital/tdd/testJavaSample/core/EvaluatorImpl.java
+END
+EvaluatorMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/usvn/svn/tdd-sample/!svn/ver/2/trunk/src/main/java/org/bdigital/tdd/testJavaSample/core/EvaluatorMock.java
+END
